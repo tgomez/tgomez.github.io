@@ -1,1 +1,0 @@
-# tgomez.github.io
