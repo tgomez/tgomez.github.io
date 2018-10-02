@@ -117,6 +117,14 @@ p {
 	color: #878C9F;
 	font-family: 'Poppins', sans-serif;
 }
+h11 {
+	font-size: 11px;
+	line-height: 24px;
+	padding-bottom: 10px;
+	font-weight: 500;
+	color: #FF7F00;
+	font-family: 'Poppins', sans-serif;
+}
 blockquote {
 	float: left;
 	padding: 10px 20px;
@@ -125,6 +133,7 @@ blockquote {
 	border-left: 15px solid #eee;
 	position: relative;
 }
+
 blockquote:before {
 	font-family: Font Awesome\ 5 Pro;
 	content: "\f10e";
